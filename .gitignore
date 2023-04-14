@@ -127,6 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Idea files
 .idea/misc.xml
 .idea/modules.xml
 .idea/Python_Intern_Assignment.iml
